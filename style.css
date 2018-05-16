@@ -1,0 +1,22 @@
+#center{
+  text-align: center;
+}
+.pics {
+  width: 200px;
+  height: 200px;
+}
+.scoreboard{
+  line-height: 30%;
+}
+#play{
+  font-size: 20px;
+}
+.win{
+  color: green;
+}
+.lose{
+  color: red;
+}
+.tie{
+  color: yellow;
+}
